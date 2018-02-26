@@ -4,4 +4,4 @@
 
 | 日期 | 耗时 | 语言 |  题目名称 | 代码所在文件名|
 | :-: | :-: | :-: | :-: | :-: | 
-|2018/2/26|2.5h|C#|[Add Two Numbers](https://leetcode.com/articles/add-two-numbers/)|AddTwoNumbers.cs |   
+|2018/2/26|2.5h|C#|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)|AddTwoNumbers.cs |   
